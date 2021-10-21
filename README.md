@@ -1,5 +1,9 @@
 # Cargo
 
+[![Unit Test](https://github.com/maddiesch/go-cargo/actions/workflows/testing.yml/badge.svg)](https://github.com/maddiesch/go-cargo/actions/workflows/testing.yml)
+
+[Documentation](https://pkg.go.dev/github.com/maddiesch/go-cargo)
+
 HTTP file downloads with progress reporting.
 
 ```go
